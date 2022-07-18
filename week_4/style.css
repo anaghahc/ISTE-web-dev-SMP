@@ -1,0 +1,21 @@
+body{
+    background-color: #8ca6cf;
+    color: #0c2a59;
+}
+div.card-body, div.card{
+    background-color: #8ca6cf;
+    border-width: 4px;
+    border-style: solid;
+}
+
+textarea#addTxt.form-control{
+    background-color: #8ca6cf;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0c2a59;
+}
+
+button#addBtn.btn.btn-info, button.btn.btn-info{
+    background-color: #274e8c;
+}
+
